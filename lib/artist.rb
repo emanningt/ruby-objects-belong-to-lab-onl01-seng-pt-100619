@@ -9,3 +9,5 @@ class Artist
 end
 
 be
+
+artist.name = "Beyonce"
