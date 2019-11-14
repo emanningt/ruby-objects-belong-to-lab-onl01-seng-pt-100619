@@ -8,4 +8,4 @@ class Artist
   
 end
 
-name.new = "Beyonce"
+beyonce = name.new("Beyonce")
