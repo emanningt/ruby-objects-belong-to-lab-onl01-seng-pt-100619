@@ -1,3 +1,6 @@
+class Artist 
 
 
-beyonce = Artist.new("Beyonce")
+  
+end
+beyonce = Artist.new 
